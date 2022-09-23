@@ -1,0 +1,2309 @@
+{
+  "kind": "customsearch#search",
+    "url": {
+    "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - tata motors",
+        "totalResults": "181000000",
+        "searchTerms": "tata motors",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "314ab310baf3a47c1"
+      }
+    ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - tata motors",
+          "totalResults": "181000000",
+          "searchTerms": "tata motors",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "314ab310baf3a47c1"
+        }
+      ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.544752,
+      "formattedSearchTime": "0.54",
+        "totalResults": "181000000",
+          "formattedTotalResults": "181,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Tata Motors",
+      "htmlTitle": "<b>Tata Motors</b>",
+      "link": "https://www.tatamotors.com/",
+      "displayLink": "www.tatamotors.com",
+      "snippet": "About Us Tata Motors Limited, a USD 37 billion organisation, is a leading global automobile manufacturer with a portfolio that covers a wide range of cars, ...",
+      "htmlSnippet": "About Us <b>Tata Motors</b> Limited, a USD 37 billion organisation, is a leading global automobile manufacturer with a portfolio that covers a wide range of cars,&nbsp;...",
+      "cacheId": "YLWoWzBEO4wJ",
+      "formattedUrl": "https://www.tatamotors.com/",
+      "htmlFormattedUrl": "https://www.<b>tatamotors</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcdeNj_pBYbRE0mRaXZzPrzmqgRIWiYSI-IHiQ_DKCybuEYhq1DA6mi2Y",
+            "width": "223",
+            "height": "226"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "Largest Automobile Manufacturer, Biggest Automobile Company in India",
+            "og:site_name": "Tata Motors Limited | Largest Indian Automobile Manufacturer",
+            "twitter:domain": "www.tatamotors.com",
+            "viewport": "width=device-width; initial-scale=1.0",
+            "twitter:description": "About Us Tata Motors Limited, a USD 37 billion organisation, is a leading global automobile manufacturer with a portfolio that covers a wide range of cars, SUVs, buses, trucks, pickups and defence vehicles.",
+            "og:title": "Largest Automobile Manufacturer, Biggest Automobile Company in India",
+            "og:locale": "en_US",
+            "og:url": "https://www.tatamotors.com/",
+            "og:description": "About Us Tata Motors Limited, a USD 37 billion organisation, is a leading global automobile manufacturer with a portfolio that covers a wide range of cars, SUVs, buses, trucks, pickups and defence vehicles."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.tatamotors.com/wp-content/uploads/2021/10/punch-banner-04oct21-mob.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tata Motors - Wikipedia",
+      "htmlTitle": "<b>Tata Motors</b> - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Tata_Motors",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Tata Motors Limited is an Indian multinational automotive manufacturing company, headquartered in Mumbai, India, which is part of the Tata Group.",
+      "htmlSnippet": "<b>Tata Motors</b> Limited is an Indian multinational automotive manufacturing company, headquartered in Mumbai, India, which is part of the Tata Group.",
+      "cacheId": "sIdSs_LF6icJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Tata_Motors",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Tata</b>_<b>Motors</b>",
+      "pagemap": {
+        "hcard": [
+          {
+            "url_text": "www.tatamotors.com",
+            "bday": "1945",
+            "fn": "Tata Motors Ltd",
+            "nickname": "Tata Engineering and Locomotive Company Ltd. (TELCO)",
+            "label": "Mumbai, Maharashtra, India[1]",
+            "category": "Public",
+            "url": "www.tatamotors.com"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6AAykWntwICwsBxV19oKRvwXN3AzBcqusQ52Q6fSEjJ45TPM7J6t2XAlA",
+            "width": "276",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "theme-color": "#eaecf0",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Tata Motors - Wikipedia",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tata_nexon.jpg/320px-Tata_nexon.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tata Motors Products - Cars, Trucks, Buses & Defence Vehicles",
+      "htmlTitle": "<b>Tata Motors</b> Products - Cars, Trucks, Buses &amp; Defence Vehicles",
+      "link": "https://www.tatamotors.com/products/",
+      "displayLink": "www.tatamotors.com",
+      "snippet": "Tata Motors has been present in the Middle East geography since 1971 when our trucks were first sold in Bahrain. Today, our vehicles are sold in the UAE, Oman, ...",
+      "htmlSnippet": "<b>Tata Motors</b> has been present in the Middle East geography since 1971 when our trucks were first sold in Bahrain. Today, our vehicles are sold in the UAE, Oman,&nbsp;...",
+      "cacheId": "YCK-lBQrwugJ",
+      "formattedUrl": "https://www.tatamotors.com/products/",
+      "htmlFormattedUrl": "https://www.<b>tatamotors</b>.com/products/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT42-6rkGiWCu2096FelxXcZTxO441lnxHvl1y4gCPo_OcH23-1h2GwL8N4",
+            "width": "286",
+            "height": "176"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "article",
+            "article:published_time": "2018-01-11T12:26:43+00:00",
+            "twitter:card": "summary",
+            "twitter:title": "Tata Motors Products - Cars, Trucks, Buses & Defence Vehicles",
+            "og:site_name": "Tata Motors Limited | Largest Indian Automobile Manufacturer",
+            "twitter:domain": "www.tatamotors.com",
+            "og:title": "Tata Motors Products - Cars, Trucks, Buses & Defence Vehicles",
+            "og:description": "Tata Motors passionately creates machines that are futuristic, stylish and a sight to behold from the first look. We offer a wide range of products in cars, buses, cargo trucks & defence vehicles in India. These products give high performance & are fuel efficient.",
+            "article:modified_time": "2020-04-13T09:31:55+00:00",
+            "viewport": "width=device-width; initial-scale=1.0",
+            "twitter:description": "Tata Motors passionately creates machines that are futuristic, stylish and a sight to behold from the first look. We offer a wide range of products in cars, buses, cargo trucks & defence vehicles in India. These products give high performance & are fuel efficient.",
+            "og:locale": "en_US",
+            "og:url": "https://www.tatamotors.com/products/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.tatamotors.com/wp-content/uploads/2018/02/11122643/connectivity.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tata Motors Cars, Sedans, Hatchbacks, SUVs | Tata Motors Limited",
+      "htmlTitle": "<b>Tata Motors</b> Cars, Sedans, Hatchbacks, SUVs | <b>Tata Motors</b> Limited",
+      "link": "https://cars.tatamotors.com/",
+      "displayLink": "cars.tatamotors.com",
+      "snippet": "Tata Motors official website for passenger cars in India. View the latest cars and SUVs by Tata Motors, locate a dealer, or book a test drive today.",
+      "htmlSnippet": "<b>Tata Motors</b> official website for passenger cars in India. View the latest cars and SUVs by <b>Tata Motors</b>, locate a dealer, or book a test drive today.",
+      "cacheId": "2E0wpEDn1iYJ",
+      "formattedUrl": "https://cars.tatamotors.com/",
+      "htmlFormattedUrl": "https://cars.<b>tatamotors</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyHaUaeLuV-X0NXbIDUs7-F0ZlTDHueaZJFgm9umt7JjfJChWS-XbKAUk",
+            "width": "386",
+            "height": "130"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cars.tatamotors.com/images/safari/safari-banner-desktop-may-2021.png",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "Tata Motors Cars, Sedans, Hatchbacks, SUVs | Tata Motors Limited",
+            "twitter:site": "@TataMotors_Cars",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:url": "https://cars.tatamotors.com/",
+            "twitter:description": "Tata Motors official website for passenger cars in India. View the latest cars and SUVs by Tata Motors, locate a dealer, or book a test drive today. Click here",
+            "og:title": "Tata Motors Cars, Sedans, Hatchbacks, SUVs | Tata Motors Limited",
+            "og:url": "https://cars.tatamotors.com/",
+            "og:description": "Tata Motors official website for passenger cars in India. View the latest cars and SUVs by Tata Motors, locate a dealer, or book a test drive today. Click here",
+            "twitter:image": "https://cars.tatamotors.com/images/safari/safari-banner-desktop-may-2021.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cars.tatamotors.com/images/safari/safari-banner-desktop-may-2021.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Evolve To Electric with Tata Motors New Electric Cars in India",
+      "htmlTitle": "Evolve To Electric with <b>Tata Motors</b> New Electric Cars in India",
+      "link": "https://ev.tatamotors.com/",
+      "displayLink": "ev.tatamotors.com",
+      "snippet": "Evolve to electric with Tata Motors new electric cars (EV) in India. These electric vehicles powered by Ziptron feature fast-charging, safety, ...",
+      "htmlSnippet": "Evolve to electric with <b>Tata Motors</b> new electric cars (EV) in India. These electric vehicles powered by Ziptron feature fast-charging, safety,&nbsp;...",
+      "cacheId": "t3v2A_q3iqsJ",
+      "formattedUrl": "https://ev.tatamotors.com/",
+      "htmlFormattedUrl": "https://ev.<b>tatamotors</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5xx3V53TV_MeUtg3O1y1fMg5C4cFoJQ5h4rQiA8ek3qCdyakKKepaarl",
+            "width": "176",
+            "height": "286"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Evolve To Electric with Tata Motors New Electric Cars in India",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Evolve to electric with Tata Motors new electric cars (EV) in India. These electric vehicles powered by Ziptron feature fast-charging, safety, long range drive & more",
+            "og:title": "Evolve To Electric with Tata Motors New Electric Cars in India",
+            "og:locale": "en_US",
+            "og:url": "https://ev.tatamotors.com/",
+            "og:description": "Evolve to electric with Tata Motors new electric cars (EV) in India. These electric vehicles powered by Ziptron feature fast-charging, safety, long range drive & more"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ev.tatamotors.com/wp-content/themes/tata-ev/images/evolve/jet-ev-banner-mo-640x1038.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tata Motors (@TataMotors) / Twitter",
+      "htmlTitle": "<b>Tata Motors</b> (@<b>TataMotors</b>) / Twitter",
+      "link": "https://twitter.com/tatamotors?lang=en",
+      "displayLink": "twitter.com",
+      "snippet": "SIAM India 2022 was a grand success. It was graced by the presence of the Hon. Cabinet Minister for Road Transport & Highways, Mr. Nitin Gadkari.",
+      "htmlSnippet": "SIAM India 2022 was a grand success. It was graced by the presence of the Hon. Cabinet Minister for Road Transport &amp; Highways, Mr. Nitin Gadkari.",
+      "cacheId": "KL7CEFg_cI4J",
+      "formattedUrl": "https://twitter.com/tatamotors?lang=en",
+      "htmlFormattedUrl": "https://twitter.com/<b>tatamotors</b>?lang=en",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhpZlen49Na_oBnk9V2t7H-0GTwHy7Vac4jMR3RAMiG26vYmSsgKAFQ",
+            "width": "48",
+            "height": "48"
+          }
+        ],
+        "imageobject": [
+          {
+            "contenturl": "https://pbs.twimg.com/media/FcwPGO8akAM2L05.jpg",
+            "width": "1000",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FcwPGO8akAM2L05?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/Fcv5lh8aIAAriNU.jpg",
+            "width": "1000",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/Fcv5lh8aIAAriNU?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FcvxyiUaUAQhpBj.jpg",
+            "width": "1000",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FcvxyiUaUAQhpBj?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FctG6NdacAADOBk.jpg",
+            "width": "1000",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FctG6NdacAADOBk?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/Fcm5BrEaIAIjaGS.jpg",
+            "width": "1125",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/Fcm5BrEaIAIjaGS?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FciF-NpaMAILGTk.jpg",
+            "width": "512",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FciF-NpaMAILGTk?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FcNeHWoakAUaGaZ.jpg",
+            "width": "1080",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FcNeHWoakAUaGaZ?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FcDrt8AacAAGzEd.jpg",
+            "width": "1200",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FcDrt8AacAAGzEd?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FcDrwJQaMAIebQ1.jpg",
+            "width": "1200",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FcDrwJQaMAIebQ1?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FcDryUhakAYgR2B.jpg",
+            "width": "1200",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FcDryUhakAYgR2B?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FcDr0YMaQBIIovV.jpg",
+            "width": "1200",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FcDr0YMaQBIIovV?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FcDPw1aakAAmVUK.jpg",
+            "width": "1125",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FcDPw1aakAAmVUK?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/Fb9o5ZjaUAAKZQe.jpg",
+            "width": "1200",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/Fb9o5ZjaUAAKZQe?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/Fb3X1FiXoAILXiN.jpg",
+            "width": "1200",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/Fb3X1FiXoAILXiN?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/FbkG0qxaMAAJIMR.jpg",
+            "width": "1200",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/FbkG0qxaMAAJIMR?format=jpg&name=thumb"
+          }
+        ],
+        "person": [
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "1169221809276735492",
+            "givenname": "Tata Passenger Electric Mobility Limited",
+            "disambiguatingdescription": "verified",
+            "additionalname": "Tatamotorsev"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          },
+          {
+            "identifier": "727662488",
+            "givenname": "Tata Motors",
+            "disambiguatingdescription": "verified",
+            "additionalname": "TataMotors"
+          }
+        ],
+        "interactioncounter": [
+          {
+            "userinteractioncount": "12",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1570646974566924291/likes"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1570646974566924291/retweets"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1570646974566924291/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1570646974566924291"
+          },
+          {
+            "userinteractioncount": "21",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1570623321800339456/likes"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1570623321800339456/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1570623321800339456/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1570623321800339456"
+          },
+          {
+            "userinteractioncount": "25",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1570614749943189505/likes"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1570614749943189505/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1570614749943189505/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1570614749943189505"
+          },
+          {
+            "userinteractioncount": "23",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1570427477910228996/likes"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1570427477910228996/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1570427477910228996/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1570427477910228996"
+          },
+          {
+            "userinteractioncount": "39",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1570427473573322754/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1570427473573322754/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1570427473573322754/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1570427473573322754"
+          },
+          {
+            "userinteractioncount": "48",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1570325201153568769/likes"
+          },
+          {
+            "userinteractioncount": "10",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1570325201153568769/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1570325201153568769/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1570325201153568769"
+          },
+          {
+            "userinteractioncount": "34",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1570298871850455046/likes"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1570298871850455046/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1570298871850455046/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1570298871850455046"
+          },
+          {
+            "userinteractioncount": "45",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1570280779619659776/likes"
+          },
+          {
+            "userinteractioncount": "10",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1570280779619659776/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1570280779619659776/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1570280779619659776"
+          },
+          {
+            "userinteractioncount": "34",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1569997006885556224/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1569997006885556224/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1569997006885556224/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1569997006885556224"
+          },
+          {
+            "userinteractioncount": "14",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1569980718683688960/likes"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1569980718683688960/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1569980718683688960/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1569980718683688960"
+          },
+          {
+            "userinteractioncount": "30",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1569980712727777280/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1569980712727777280/retweets"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1569980712727777280/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1569980712727777280"
+          },
+          {
+            "userinteractioncount": "57",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1569651970293772290/likes"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1569651970293772290/retweets"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1569651970293772290/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1569651970293772290"
+          },
+          {
+            "userinteractioncount": "54",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1568217462650601472/likes"
+          },
+          {
+            "userinteractioncount": "12",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1568217462650601472/retweets"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1568217462650601472/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "8",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1568217462650601472"
+          },
+          {
+            "userinteractioncount": "52",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1568207545617235968/likes"
+          },
+          {
+            "userinteractioncount": "9",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1568207545617235968/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1568207545617235968/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1568207545617235968"
+          },
+          {
+            "userinteractioncount": "66",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1568201056039084033/likes"
+          },
+          {
+            "userinteractioncount": "10",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1568201056039084033/retweets"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1568201056039084033/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "22",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1568201056039084033"
+          },
+          {
+            "userinteractioncount": "39",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1568161826776678401/likes"
+          },
+          {
+            "userinteractioncount": "8",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1568161826776678401/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1568161826776678401/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "7",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1568161826776678401"
+          },
+          {
+            "userinteractioncount": "114",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/Tatamotorsev/status/1568105502550401024/likes"
+          },
+          {
+            "userinteractioncount": "22",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/Tatamotorsev/status/1568105502550401024/retweets"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/Tatamotorsev/status/1568105502550401024/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "25",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/Tatamotorsev/status/1568105502550401024"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1567512002591064064/likes"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1567512002591064064/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1567512002591064064/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1567512002591064064"
+          },
+          {
+            "userinteractioncount": "29",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1567511996664549380/likes"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1567511996664549380/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1567511996664549380/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "8",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1567511996664549380"
+          },
+          {
+            "userinteractioncount": "33",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1567481156744155136/likes"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1567481156744155136/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1567481156744155136/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "8",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1567481156744155136"
+          },
+          {
+            "userinteractioncount": "8",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1567087064537251843/likes"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1567087064537251843/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1567087064537251843/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1567087064537251843"
+          },
+          {
+            "userinteractioncount": "34",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1567087059084640257/likes"
+          },
+          {
+            "userinteractioncount": "9",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1567087059084640257/retweets"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1567087059084640257/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1567087059084640257"
+          },
+          {
+            "userinteractioncount": "45",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566688408290082823/likes"
+          },
+          {
+            "userinteractioncount": "10",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566688408290082823/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566688408290082823/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "13",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566688408290082823"
+          },
+          {
+            "userinteractioncount": "46",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566682343007342592/likes"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566682343007342592/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566682343007342592/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566682343007342592"
+          },
+          {
+            "userinteractioncount": "28",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566681546370600960/likes"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566681546370600960/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566681546370600960/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566681546370600960"
+          },
+          {
+            "userinteractioncount": "36",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566679196755144704/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566679196755144704/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566679196755144704/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566679196755144704"
+          },
+          {
+            "userinteractioncount": "26",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566677416470138880/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566677416470138880/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566677416470138880/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566677416470138880"
+          },
+          {
+            "userinteractioncount": "22",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566677143026688000/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566677143026688000/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566677143026688000/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566677143026688000"
+          },
+          {
+            "userinteractioncount": "58",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566667809207173120/likes"
+          },
+          {
+            "userinteractioncount": "11",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566667809207173120/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566667809207173120/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566667809207173120"
+          },
+          {
+            "userinteractioncount": "251",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566663833623572481/likes"
+          },
+          {
+            "userinteractioncount": "277",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566663833623572481/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566663833623572481/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566663833623572481"
+          },
+          {
+            "userinteractioncount": "45",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566652345861099520/likes"
+          },
+          {
+            "userinteractioncount": "7",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566652345861099520/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566652345861099520/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566652345861099520"
+          },
+          {
+            "userinteractioncount": "236",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566646285297504257/likes"
+          },
+          {
+            "userinteractioncount": "293",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566646285297504257/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566646285297504257/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566646285297504257"
+          },
+          {
+            "userinteractioncount": "38",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566636226672738305/likes"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566636226672738305/retweets"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566636226672738305/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566636226672738305"
+          },
+          {
+            "userinteractioncount": "104",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1566405772023455745/likes"
+          },
+          {
+            "userinteractioncount": "10",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1566405772023455745/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1566405772023455745/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "11",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1566405772023455745"
+          },
+          {
+            "userinteractioncount": "10",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1565590181306310656/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1565590181306310656/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1565590181306310656/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1565590181306310656"
+          },
+          {
+            "userinteractioncount": "36",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1565590176709382144/likes"
+          },
+          {
+            "userinteractioncount": "24",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1565590176709382144/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1565590176709382144/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "12",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1565590176709382144"
+          },
+          {
+            "userinteractioncount": "266",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1565290186158018560/likes"
+          },
+          {
+            "userinteractioncount": "37",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1565290186158018560/retweets"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1565290186158018560/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "34",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1565290186158018560"
+          },
+          {
+            "userinteractioncount": "79",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1564840303839719425/likes"
+          },
+          {
+            "userinteractioncount": "16",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1564840303839719425/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1564840303839719425/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1564840303839719425"
+          },
+          {
+            "userinteractioncount": "131",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/TataMotors/status/1564773229742682112/likes"
+          },
+          {
+            "userinteractioncount": "11",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/TataMotors/status/1564773229742682112/retweets"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/TataMotors/status/1564773229742682112/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/TataMotors/status/1564773229742682112"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://pbs.twimg.com/profile_images/899609798299205633/DZLt0_e2_normal.jpg",
+            "theme-color": "#ffffff",
+            "og:type": "profile",
+            "og:site_name": "Twitter",
+            "al:ios:app_name": "Twitter",
+            "apple-mobile-web-app-title": "Twitter",
+            "og:title": "Tata Motors (@TataMotors) / Twitter",
+            "al:android:package": "com.twitter.android",
+            "al:ios:url": "twitter://user?screen_name=TataMotors",
+            "og:description": "Welcome to the official Twitter handle of Tata Motors - India’s largest automobile company.",
+            "al:ios:app_store_id": "333903271",
+            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+            "al:android:url": "twitter://user?screen_name=TataMotors",
+            "fb:app_id": "2231777543",
+            "apple-mobile-web-app-status-bar-style": "white",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://twitter.com/TataMotors",
+            "al:android:app_name": "Twitter"
+          }
+        ],
+        "videoobject": [
+          {
+            "duration": "PT0H0M7S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1570325201153568769",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1570324060504203265/pu/vid/720x720/rFQ-sXnC5jHN7Dn5.mp4?tag=12",
+            "uploaddate": "2022-09-15T08:14:37.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1570324060504203265/pu/img/UqcnRawOceiyw5z5.jpg"
+          },
+          {
+            "duration": "PT0H0M13S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1570298871850455046",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1570282242324439041/pu/vid/720x720/OvHxg8Bjy8y3baem.mp4?tag=12",
+            "uploaddate": "2022-09-15T06:30:00.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1570282242324439041/pu/img/ytDcdbnNtjo0atrA.jpg"
+          },
+          {
+            "duration": "PT0H0M17S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1570280779619659776",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1570280735436869634/pu/vid/720x720/TNncvu4ebBkdbP0Q.mp4?tag=12",
+            "uploaddate": "2022-09-15T05:18:06.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1570280735436869634/pu/img/p8n7cOL1FKYSEohu.jpg"
+          },
+          {
+            "duration": "PT0H0M49S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1569980712727777280",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1569980132424843264/pu/vid/1280x720/cRusiSbap7pG1H3T.mp4?tag=12",
+            "uploaddate": "2022-09-14T09:25:45.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1569980132424843264/pu/img/yqP-R8kq8F9avo9C.jpg"
+          },
+          {
+            "duration": "PT0H0M11S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1568217462650601472",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1568217196496850946/pu/vid/720x720/jB9vX0FcmDSzcpm2.mp4?tag=12",
+            "uploaddate": "2022-09-09T12:39:13.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1568217196496850946/pu/img/OulaACrai4H_-RA6.jpg"
+          },
+          {
+            "duration": "PT0H0M23S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1568207545617235968",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1568207477686292488/pu/vid/720x720/tEg_29Ar-QDK50zs.mp4?tag=12",
+            "uploaddate": "2022-09-09T11:59:49.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1568207477686292488/pu/img/eE0SFAHApdirOSwh.jpg"
+          },
+          {
+            "duration": "PT0H0M45S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1568161826776678401",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1568161704160407554/pu/vid/1280x720/2niGAz5AOH4t6rLT.mp4?tag=12",
+            "uploaddate": "2022-09-09T08:58:09.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1568161704160407554/pu/img/KsOTD2Q3iwN3gO85.jpg"
+          },
+          {
+            "duration": "PT0H0M10S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1565590176709382144",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1565588536040255488/pu/vid/720x720/83oa5Z7nNZ3r2fVE.mp4?tag=12",
+            "uploaddate": "2022-09-02T06:39:20.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1565588536040255488/pu/img/ybofZfiy7-vhVXXt.jpg"
+          },
+          {
+            "duration": "PT0H0M4S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1564840303839719425",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1564839061310713856/pu/vid/720x720/Bsj-QbegvrVDFgoN.mp4?tag=12",
+            "uploaddate": "2022-08-31T04:59:36.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1564839061310713856/pu/img/ENTh6ZAw9MNJ4b7u.jpg"
+          },
+          {
+            "duration": "PT0H0M24S",
+            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1564773229742682112",
+            "contenturl": "https://video.twimg.com/ext_tw_video/1564773136696066049/pu/vid/720x720/qrcVSoegza13rjL6.mp4?tag=12",
+            "uploaddate": "2022-08-31T00:33:04.000Z",
+            "name": "@TataMotors's video Tweet",
+            "description": "Embedded video",
+            "caption": "Embedded video",
+            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1564773136696066049/pu/img/jsKmUzNsq83CrLfd.jpg"
+          }
+        ],
+        "collection": [
+          {
+            "name": "Profile Tweets"
+          }
+        ],
+        "creativework": [
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/8lo9SETeuJ"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/GRKtzrYD76"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/qepv4foc8N"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/6MMxJEbo8W"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/xwynXmqd2V"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/ecKvZXrnML"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/9GPpAijRgS"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/CAAat7wPY5"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/JTKMKVS0fh"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/dltk0CQHS3"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/ge7mHEvt6X"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/CJxtGp9rYZ"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/G8YaiwZnGR"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/8gSHJ6YHI5"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/v7sLJ1RMjS"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/hEpWrNsNHg"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/JTKMKVS0fh"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/EMQO71scfC"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/p2odPo2ojK"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/JTKMKVS0fh"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/PB6bR9sm4n"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/L4ExTI8AfF"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/aq2bQikRFM"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/ETW9QHNZgJ"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/7yvT4Rfunq"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/f5Ac6iCNbP"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/zP02UWc6G7"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pbs.twimg.com/profile_images/899609798299205633/DZLt0_e2_normal.jpg"
+          }
+        ],
+        "socialmediaposting": [
+          {
+            "identifier": "1570646974566924291",
+            "commentcount": "3",
+            "articlebody": "SIAM India 2022 was a grand success. It was graced by the presence of the Hon. Cabinet Minister for Road Transport & Highways, Mr. Nitin Gadkari. At the forum, Mr Girish Wagh, Exec. Director...",
+            "position": "1",
+            "datecreated": "2022-09-16T05:33:14.000Z",
+            "datepublished": "2022-09-16T05:33:14.000Z",
+            "url": "https://twitter.com/TataMotors/status/1570646974566924291"
+          },
+          {
+            "identifier": "1570623321800339456",
+            "commentcount": "0",
+            "articlebody": "SIAM India 2022 was a grand success. It was graced by the presence of the Hon. Cabinet Minister for Road Transport & Highways, Mr. Nitin Gadkari. At the forum, Mr Girish Wagh, Exec. Director...",
+            "position": "2",
+            "datecreated": "2022-09-16T03:59:15.000Z",
+            "datepublished": "2022-09-16T03:59:15.000Z",
+            "url": "https://twitter.com/TataMotors/status/1570623321800339456"
+          },
+          {
+            "identifier": "1570614749943189505",
+            "commentcount": "0",
+            "articlebody": "SIAM India 2022 was a grand success. It was graced by the presence of the Hon. Cabinet Minister for Road Transport & Highways, Mr. Nitin Gadkari. At the forum, Mr Girish Wagh, Exec. Director...",
+            "position": "3",
+            "datecreated": "2022-09-16T03:25:11.000Z",
+            "datepublished": "2022-09-16T03:25:11.000Z",
+            "url": "https://twitter.com/TataMotors/status/1570614749943189505"
+          },
+          {
+            "identifier": "1570427477910228996",
+            "commentcount": "1",
+            "articlebody": "Today, Rajendra Petkar, President and CTO, Tata Motors, expresses his gratitude to the entire fraternity on behalf of Tata Motors. We wish you a Happy Engineers​ ​Day​! #ConnectingAspirations...",
+            "ispartof": "https://twitter.com/TataMotors/status/1570427473573322754",
+            "position": "4",
+            "datecreated": "2022-09-15T15:01:02.000Z",
+            "datepublished": "2022-09-15T15:01:02.000Z",
+            "url": "https://twitter.com/TataMotors/status/1570427477910228996"
+          },
+          {
+            "identifier": "1570427473573322754",
+            "commentcount": "5",
+            "articlebody": "Engineers have always carried the responsibility of innovating technological advancements across sectors, enhancing the quotient on sustainability, new energy paradigms, connectivity, comfort,...",
+            "position": "5",
+            "datecreated": "2022-09-15T15:01:01.000Z",
+            "datepublished": "2022-09-15T15:01:01.000Z",
+            "url": "https://twitter.com/TataMotors/status/1570427473573322754"
+          },
+          {
+            "identifier": "1570325201153568769",
+            "commentcount": "3",
+            "articlebody": "Engineers are the ones who turn dreams into reality! We, at Tata Motors, thank and appreciate all the hard work and effort put in by our engineers. #ConnectingAspirations #EngineersDay",
+            "position": "6",
+            "datecreated": "2022-09-15T08:14:37.000Z",
+            "datepublished": "2022-09-15T08:14:37.000Z",
+            "url": "https://twitter.com/TataMotors/status/1570325201153568769"
+          },
+          {
+            "identifier": "1570298871850455046",
+            "commentcount": "2",
+            "articlebody": "They make everything possible! From making our everyday lives easier to helping our businesses reach great heights of prosperity and success. #TataMotors honours all the engineers out there...",
+            "position": "7",
+            "datecreated": "2022-09-15T06:30:00.000Z",
+            "datepublished": "2022-09-15T06:30:00.000Z",
+            "url": "https://twitter.com/TataMotors/status/1570298871850455046"
+          },
+          {
+            "identifier": "1570280779619659776",
+            "commentcount": "1",
+            "articlebody": "Let's celebrate the genius of those who are helping us create a better tomorrow through constant innovation in all avenues of engineering. #HappyEngineersDay from #TataMotors. #TataMotorsBS6Trucks",
+            "position": "8",
+            "datecreated": "2022-09-15T05:18:06.000Z",
+            "datepublished": "2022-09-15T05:18:06.000Z",
+            "url": "https://twitter.com/TataMotors/status/1570280779619659776"
+          },
+          {
+            "identifier": "1569997006885556224",
+            "commentcount": "2",
+            "articlebody": "Going for a family tour with Winger is the best way to make unforgettable memories for a lifetime. Travel in the new Tata Winger and make the most of the comfortable push-back seats. #TataMotorsBS6...",
+            "position": "9",
+            "datecreated": "2022-09-14T10:30:30.000Z",
+            "datepublished": "2022-09-14T10:30:30.000Z",
+            "url": "https://twitter.com/TataMotors/status/1569997006885556224"
+          },
+          {
+            "identifier": "1569980718683688960",
+            "commentcount": "0",
+            "articlebody": "Over the years, affirmative changes are experienced in the health of the malnourished children, and the knowledge, attitude, and behavior of these communities towards health and sanitation....",
+            "ispartof": "https://twitter.com/TataMotors/status/1569980712727777280",
+            "position": "10",
+            "datecreated": "2022-09-14T09:25:46.000Z",
+            "datepublished": "2022-09-14T09:25:46.000Z",
+            "url": "https://twitter.com/TataMotors/status/1569980718683688960"
+          },
+          {
+            "identifier": "1569980712727777280",
+            "commentcount": "1",
+            "articlebody": "Tata Motors' CSR activity Arogya focused on addressing child malnutrition and health awareness among the community, especially females. Access to safe drinking water is another concern that...",
+            "position": "11",
+            "datecreated": "2022-09-14T09:25:45.000Z",
+            "datepublished": "2022-09-14T09:25:45.000Z",
+            "url": "https://twitter.com/TataMotors/status/1569980712727777280"
+          },
+          {
+            "identifier": "1569651970293772290",
+            "commentcount": "4",
+            "articlebody": "Tata Starbus CNG Staff range is built in accordance with AIS 028 safety standards. It’s time to ride comfortably and safely with the power of sustainability. #TataMotorsBS6Buses Know more:...",
+            "position": "12",
+            "datecreated": "2022-09-13T11:39:27.000Z",
+            "datepublished": "2022-09-13T11:39:27.000Z",
+            "url": "https://twitter.com/TataMotors/status/1569651970293772290"
+          },
+          {
+            "identifier": "1568217462650601472",
+            "commentcount": "8",
+            "articlebody": "Boost your profits and drive towards a cleaner future with every delivery using Tata Ace EV. #WorldEVDay #TataMotors #TataMotorsEV",
+            "position": "13",
+            "datecreated": "2022-09-09T12:39:13.000Z",
+            "datepublished": "2022-09-09T12:39:13.000Z",
+            "url": "https://twitter.com/TataMotors/status/1568217462650601472"
+          },
+          {
+            "identifier": "1568207545617235968",
+            "commentcount": "3",
+            "articlebody": "Whether it's revolutionizing cargo transport with Ace EV or evolving passenger transport with an electric bus, Tata Motors has been ahead in bringing about an electrifying change with its commercia...",
+            "position": "14",
+            "datecreated": "2022-09-09T11:59:49.000Z",
+            "datepublished": "2022-09-09T11:59:49.000Z",
+            "url": "https://twitter.com/TataMotors/status/1568207545617235968"
+          },
+          {
+            "identifier": "1568201056039084033",
+            "commentcount": "22",
+            "articlebody": "Travel to work in maximum comfort with Starbus, which offers smooth rides at low noise and vibration levels so that you stay charged to give your best. For more details, visit your nearest...",
+            "position": "15",
+            "datecreated": "2022-09-09T11:34:02.000Z",
+            "datepublished": "2022-09-09T11:34:02.000Z",
+            "url": "https://twitter.com/TataMotors/status/1568201056039084033"
+          },
+          {
+            "identifier": "1568161826776678401",
+            "commentcount": "7",
+            "articlebody": "The new range of Tata trucks is here with the promise to deliver progress and skyrocket your profits. Equip your business with the new Signa, Ultra and Prima trucks and watch your profits grow...",
+            "position": "16",
+            "datecreated": "2022-09-09T08:58:09.000Z",
+            "datepublished": "2022-09-09T08:58:09.000Z",
+            "url": "https://twitter.com/TataMotors/status/1568161826776678401"
+          },
+          {
+            "identifier": "1568107363269509126",
+            "position": "17",
+            "datecreated": "2022-09-09T05:21:44.000Z",
+            "datepublished": "2022-09-09T05:21:44.000Z"
+          },
+          {
+            "identifier": "1568105502550401024",
+            "commentcount": "25",
+            "articlebody": "This #WorldEVDay, we are excited to announce our newest EV- the Tiago.ev! Watch Mr. Shailesh Chandra, MD, TPEM & TMPVL, give a glimpse of how we are leading the next phase of the EV market...",
+            "datecreated": "2022-09-09T05:14:20.000Z",
+            "datepublished": "2022-09-09T05:14:20.000Z",
+            "url": "https://twitter.com/Tatamotorsev/status/1568105502550401024"
+          },
+          {
+            "identifier": "1567512002591064064",
+            "commentcount": "2",
+            "articlebody": "Read more: https://bit.ly/3TLvr15 #ConnectingAspirations #CSR",
+            "ispartof": "https://twitter.com/TataMotors/status/1567511996664549380",
+            "position": "18",
+            "datecreated": "2022-09-07T13:55:59.000Z",
+            "datepublished": "2022-09-07T13:55:59.000Z",
+            "url": "https://twitter.com/TataMotors/status/1567512002591064064"
+          },
+          {
+            "identifier": "1567511996664549380",
+            "commentcount": "8",
+            "articlebody": "During the surge of Covid-19 cases in 2020 & 2021, Tata Motors provided door-to-door vaccination services to remote areas that had low accessibility to vaccines through Tata mobile vaccination...",
+            "position": "19",
+            "datecreated": "2022-09-07T13:55:57.000Z",
+            "datepublished": "2022-09-07T13:55:57.000Z",
+            "url": "https://twitter.com/TataMotors/status/1567511996664549380"
+          },
+          {
+            "identifier": "1567481156744155136",
+            "commentcount": "8",
+            "articlebody": "Lower buying cost on Tata Tippers-pay only 50% EMI up to 5 months. Loan tenure up to 5 years, 30 day moratorium & LTV as per std. offering. Offer valid till 30 Sept 2022. T&C Apply. Grab Special...",
+            "position": "20",
+            "datecreated": "2022-09-07T11:53:24.000Z",
+            "datepublished": "2022-09-07T11:53:24.000Z",
+            "url": "https://twitter.com/TataMotors/status/1567481156744155136"
+          },
+          {
+            "identifier": "1567087064537251843",
+            "commentcount": "0",
+            "articlebody": "In addition to augmenting diets and providing nutritional supplements to them, behavioural change and awareness building in the community is done to accomplish sustained health Read more -...",
+            "ispartof": "https://twitter.com/TataMotors/status/1567087059084640257",
+            "position": "21",
+            "datecreated": "2022-09-06T09:47:25.000Z",
+            "datepublished": "2022-09-06T09:47:25.000Z",
+            "url": "https://twitter.com/TataMotors/status/1567087064537251843"
+          },
+          {
+            "identifier": "1567087059084640257",
+            "commentcount": "4",
+            "articlebody": "In an endeavour to build a stronger and healthier today and tomorrow, Tata Motors focuses on addressing malnutrition among children, between birth and the age of six. #ConnectingAspirations...",
+            "position": "22",
+            "datecreated": "2022-09-06T09:47:24.000Z",
+            "datepublished": "2022-09-06T09:47:24.000Z",
+            "url": "https://twitter.com/TataMotors/status/1567087059084640257"
+          },
+          {
+            "identifier": "1566688408290082823",
+            "commentcount": "13",
+            "articlebody": "Thank you all for the appreciation and for being a part of the launch. Tell us in the comments, how you like the new era of mobility. #DeliveringProgress #DeshKeTruck",
+            "position": "23",
+            "datecreated": "2022-09-05T07:23:18.000Z",
+            "datepublished": "2022-09-05T07:23:18.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566688408290082823"
+          },
+          {
+            "identifier": "1566682343007342592",
+            "commentcount": "6",
+            "articlebody": "The new Tata PRIMA has arrived. Tell us how it looks in the comments. #DeliveringProgress #DeshKeTruck",
+            "position": "24",
+            "datecreated": "2022-09-05T06:59:12.000Z",
+            "datepublished": "2022-09-05T06:59:12.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566682343007342592"
+          },
+          {
+            "identifier": "1566681546370600960",
+            "commentcount": "1",
+            "articlebody": "And now we are unveiling the new Tata SIGNA. The new features will deliver progress to you. #DeliveringProgress #DeshKeTruck",
+            "position": "25",
+            "datecreated": "2022-09-05T06:56:02.000Z",
+            "datepublished": "2022-09-05T06:56:02.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566681546370600960"
+          },
+          {
+            "identifier": "1566679196755144704",
+            "commentcount": "0",
+            "articlebody": "And now we are unveiling the new Tata CNG Series. The new features will deliver progress to you. #DeliveringProgress #DeshKeTruck",
+            "position": "26",
+            "datecreated": "2022-09-05T06:46:42.000Z",
+            "datepublished": "2022-09-05T06:46:42.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566679196755144704"
+          },
+          {
+            "identifier": "1566677416470138880",
+            "commentcount": "1",
+            "articlebody": "The new Tata FE series has arrived. Tell us how it looks in the comments. #DeliveringProgress #DeshKeTruck",
+            "position": "27",
+            "datecreated": "2022-09-05T06:39:38.000Z",
+            "datepublished": "2022-09-05T06:39:38.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566677416470138880"
+          },
+          {
+            "identifier": "1566677143026688000",
+            "commentcount": "0",
+            "articlebody": "The new Tata ULTRA is here! Get ready to trump your competition and earn the success that you always dreamt of. #DeliveringProgress #DeshKeTruck",
+            "position": "28",
+            "datecreated": "2022-09-05T06:38:33.000Z",
+            "datepublished": "2022-09-05T06:38:33.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566677143026688000"
+          },
+          {
+            "identifier": "1566667809207173120",
+            "commentcount": "1",
+            "articlebody": "Tata Motors always puts the nation first. The new era of mobility will surely upscale India’s transportation sector. Excited about the launch! #DeliveringProgress",
+            "position": "29",
+            "datecreated": "2022-09-05T06:01:27.000Z",
+            "datepublished": "2022-09-05T06:01:27.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566667809207173120"
+          },
+          {
+            "identifier": "1566663833623572481",
+            "commentcount": "6",
+            "articlebody": "You would not want to miss this! We are going to unveil a new era of mobility in just one hour. Stay tuned to find out. #DeliveringProgress",
+            "position": "30",
+            "datecreated": "2022-09-05T05:45:39.000Z",
+            "datepublished": "2022-09-05T05:45:39.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566663833623572481"
+          },
+          {
+            "identifier": "1566652345861099520",
+            "commentcount": "2",
+            "articlebody": "Thanking our teachers who created a bright path for us to pursue our dreams! Happy Teacher's Day! #ConnectingAspirations #TeachersDay",
+            "position": "31",
+            "datecreated": "2022-09-05T05:00:00.000Z",
+            "datepublished": "2022-09-05T05:00:00.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566652345861099520"
+          },
+          {
+            "identifier": "1566646285297504257",
+            "commentcount": "4",
+            "articlebody": "The future of mobility transforms today. Be a part of it. #DeliveringProgress",
+            "position": "32",
+            "datecreated": "2022-09-05T04:35:55.000Z",
+            "datepublished": "2022-09-05T04:35:55.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566646285297504257"
+          },
+          {
+            "identifier": "1566636226672738305",
+            "commentcount": "1",
+            "articlebody": "We are set to give you the tools that will fuel your progress. Stay tuned! #DeliveringProgress",
+            "position": "33",
+            "datecreated": "2022-09-05T03:55:57.000Z",
+            "datepublished": "2022-09-05T03:55:57.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566636226672738305"
+          },
+          {
+            "identifier": "1566405772023455745",
+            "commentcount": "11",
+            "articlebody": "We are excited to show you the future of mobility. Are you looking forward to witnessing it? #DeliveringProgress",
+            "position": "34",
+            "datecreated": "2022-09-04T12:40:13.000Z",
+            "datepublished": "2022-09-04T12:40:13.000Z",
+            "url": "https://twitter.com/TataMotors/status/1566405772023455745"
+          },
+          {
+            "identifier": "1565590181306310656",
+            "commentcount": "0",
+            "articlebody": "Watch Episode 2 of #MotorMentors Season 1 and learn more insights on the intriguing topic of Energy Management in Electric Vehicles. Link to episode 2: https://bit.ly/3cuxbLg #ConnectingAspirations...",
+            "ispartof": "https://twitter.com/TataMotors/status/1565590176709382144",
+            "position": "35",
+            "datecreated": "2022-09-02T06:39:21.000Z",
+            "datepublished": "2022-09-02T06:39:21.000Z",
+            "url": "https://twitter.com/TataMotors/status/1565590181306310656"
+          },
+          {
+            "identifier": "1565590176709382144",
+            "commentcount": "12",
+            "articlebody": "Did you know that energy optimization has helped improve the overall performance and experience of electric vehicles. #ConnectingAspirations #EvolveToElectric #TataMotors",
+            "position": "36",
+            "datecreated": "2022-09-02T06:39:20.000Z",
+            "datepublished": "2022-09-02T06:39:20.000Z",
+            "url": "https://twitter.com/TataMotors/status/1565590176709382144"
+          },
+          {
+            "identifier": "1565290186158018560",
+            "commentcount": "34",
+            "articlebody": "Tata Motors Sales Release - August 2022. To know more, visit: https://bit.ly/3Kzxgdq #ConnectingAspirations",
+            "position": "37",
+            "datecreated": "2022-09-01T10:47:16.000Z",
+            "datepublished": "2022-09-01T10:47:16.000Z",
+            "url": "https://twitter.com/TataMotors/status/1565290186158018560"
+          },
+          {
+            "identifier": "1564840303839719425",
+            "commentcount": "4",
+            "articlebody": "Let this celebration fill your life with happiness, good health, and prosperity! Happy Ganesh Chaturthi to everyone! #ConnectingAspirations #GaneshChaturthi",
+            "position": "38",
+            "datecreated": "2022-08-31T04:59:36.000Z",
+            "datepublished": "2022-08-31T04:59:36.000Z",
+            "url": "https://twitter.com/TataMotors/status/1564840303839719425"
+          },
+          {
+            "identifier": "1564773229742682112",
+            "commentcount": "6",
+            "articlebody": "His blessings make the start of every journey auspicious and fulfills everyone's desires, leading us to prosperity and success. Let's come together and welcome Lord Ganesha. Happy Ganesh Chaturthi...",
+            "position": "39",
+            "datecreated": "2022-08-31T00:33:04.000Z",
+            "datepublished": "2022-08-31T00:33:04.000Z",
+            "url": "https://twitter.com/TataMotors/status/1564773229742682112"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tata Motors Finance: Commercial and Personal Vehicle Loan Provider",
+      "htmlTitle": "<b>Tata Motors</b> Finance: Commercial and Personal Vehicle Loan Provider",
+      "link": "https://www.tmf.co.in/",
+      "displayLink": "www.tmf.co.in",
+      "snippet": "TATA Motors finance is one of the largest and oldest commercial and personal vehicle loan providers fulfilling people needs in India since 1957.",
+      "htmlSnippet": "<b>TATA Motors</b> finance is one of the largest and oldest commercial and personal vehicle loan providers fulfilling people needs in India since 1957.",
+      "cacheId": "9L9uBGUyFmgJ",
+      "formattedUrl": "https://www.tmf.co.in/",
+      "htmlFormattedUrl": "https://www.tmf.co.in/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+            "title": "Commercial and Personal Vehicle Loan Provider | Tata Motors Finance"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tata Motors Share Price",
+      "htmlTitle": "<b>Tata Motors</b> Share Price",
+      "link": "https://economictimes.indiatimes.com/tata-motors-ltd/stocks/companyid-12934.cms",
+      "displayLink": "economictimes.indiatimes.com",
+      "snippet": "Tata Motors Share Price Today (16 Sep, 2022) Live NSE/BSE updates on The Economic Times. Check out why Tata Motors share price is down today.",
+      "htmlSnippet": "<b>Tata Motors</b> Share Price Today (16 Sep, 2022) Live NSE/BSE updates on The Economic Times. Check out why <b>Tata Motors</b> share price is down today.",
+      "cacheId": "Ea0tLkJvPBAJ",
+      "formattedUrl": "https://economictimes.indiatimes.com/tata-motors.../companyid-12934.cms",
+      "htmlFormattedUrl": "https://economictimes.indiatimes.com/<b>tata</b>-<b>motors</b>.../companyid-12934.cms",
+      "pagemap": {
+        "corporation": [
+          {
+            "tickersymbol": "TATAMOTORSEQ",
+            "name": "Tata Motors Ltd.",
+            "url": "https://m.economictimes.com/tata-motors-ltd/stocks/companyid-12934.cms"
+          }
+        ],
+        "metatags": [
+          {
+            "theme-color": "#e9383e",
+            "apple-mobile-web-app-status-bar-style": "#e9383e",
+            "handheldfriendly": "true",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+            "mobileoptimized": "width",
+            "language": "english",
+            "msapplication-navbutton-color": "#e9383e"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Business News",
+            "name": "Business News",
+            "position": "1"
+          },
+          {
+            "item": "Markets",
+            "name": "Markets",
+            "position": "2"
+          },
+          {
+            "item": "Stocks",
+            "name": "Stocks",
+            "position": "3"
+          },
+          {
+            "item": "Stock Price Quotes",
+            "name": "Stock Price Quotes",
+            "position": "4"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tatamotors Careers | Join us",
+      "htmlTitle": "<b>Tatamotors</b> Careers | Join us",
+      "link": "https://joinus.tatamotors.com/",
+      "displayLink": "joinus.tatamotors.com",
+      "snippet": "\"Tata Motors gave me a wonderful platform to start my professional career. The responsibilities given to me provide enough sense of ownership and great ...",
+      "htmlSnippet": "&quot;<b>Tata Motors</b> gave me a wonderful platform to start my professional career. The responsibilities given to me provide enough sense of ownership and great&nbsp;...",
+      "cacheId": "MOMeGUY-2eQJ",
+      "formattedUrl": "https://joinus.tatamotors.com/",
+      "htmlFormattedUrl": "https://joinus.<b>tatamotors</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXNUc68TgB8hZ8gPejX24iKQJB8om3aP0duJl0Ruh5xITDmIT5wXk5I6g",
+            "width": "178",
+            "height": "284"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://joinus.tatamotors.com/wp-content/themes/carrer/images/report.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tata Motors to raise $1 BN in its Passenger Electric Vehicle ...",
+      "htmlTitle": "<b>Tata Motors</b> to raise $1 BN in its Passenger Electric Vehicle ...",
+      "link": "https://therisefund.com/news/tata-motors-raise-1-bn-its-passenger-electric-vehicle-business-valuation-91-bn-tpg-rise",
+      "displayLink": "therisefund.com",
+      "snippet": "Oct 12, 2021 ... Tata Motors Ltd (TML) and TPG Rise Climate have today entered into a binding agreement whereby TPG Rise Climate along with its co-investor ...",
+      "htmlSnippet": "Oct 12, 2021 <b>...</b> <b>Tata Motors</b> Ltd (TML) and TPG Rise Climate have today entered into a binding agreement whereby TPG Rise Climate along with its co-investor&nbsp;...",
+      "cacheId": "gmgZaCIC8MYJ",
+      "formattedUrl": "https://therisefund.com/.../tata-motors-raise-1-bn-its-passenger-electric- vehicle-business-valuation-91-bn-tpg-rise",
+      "htmlFormattedUrl": "https://therisefund.com/.../<b>tata</b>-<b>motors</b>-raise-1-bn-its-passenger-electric- vehicle-business-valuation-91-bn-tpg-rise",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrxy0J9OaEk8SXh6ThUUmftahPLHRJYjcxjmURK48yzDN7-9y0PLlBnKw",
+            "width": "316",
+            "height": "160"
+          }
+        ],
+        "website": [
+          {
+            "name": "The RISE Fund",
+            "url": "The RISE Fund"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://therisefund.com/sites/default/files/styles/large/public/2021-10/TATA%20motors.jpg?itok=Y1Amlcr4",
+            "twitter:title": "Tata Motors to raise $1 BN in its Passenger Electric Vehicle business at a valuation of up to $9.1 BN from TPG Rise Climate",
+            "theme-color": "#ffffff",
+            "og:site_name": "The Rise Fund",
+            "handheldfriendly": "true",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:title": "Tata Motors to raise $1 BN in its Passenger Electric Vehicle business at a valuation of up to $9.1 BN from TPG Rise Climate",
+            "mobileoptimized": "width",
+            "twitter:image": "https://therisefund.com/sites/default/files/styles/large/public/2021-10/TATA%20motors.jpg?itok=Y1Amlcr4"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://therisefund.com/sites/default/files/styles/large/public/2021-10/TATA%20motors.jpg?itok=Y1Amlcr4"
+          }
+        ]
+      }
+    }
+  ]
+}
